@@ -1,0 +1,20 @@
+2022/01/29 10:53:17 C:/Users/QingyangLi/Desktop/dsl/internal/db/users.go:321
+[warn] Model gogs.io/gogs/internal/db.User don't match BeforeUpdateInterface, should be BeforeUpdate(*gorm.DB)
+2022/01/29 10:53:17 C:/Users/QingyangLi/Desktop/dsl/internal/db/users.go:321 record not found
+[2.001ms] [rows:0] SELECT * FROM `user` WHERE lower_name = "docs" ORDER BY `user`.`id` LIMIT 1
+2022/01/29 10:57:07 C:/Users/QingyangLi/Desktop/dsl/internal/db/users.go:321
+[warn] Model gogs.io/gogs/internal/db.User don't match BeforeUpdateInterface, should be BeforeUpdate(*gorm.DB)
+2022/01/29 10:57:07 C:/Users/QingyangLi/Desktop/dsl/internal/db/users.go:321 record not found
+[1.000ms] [rows:0] SELECT * FROM `user` WHERE lower_name = "”public" ORDER BY `user`.`id` LIMIT 1
+2022/01/29 10:57:08 C:/Users/QingyangLi/Desktop/dsl/internal/db/users.go:321 record not found
+[0.000ms] [rows:0] SELECT * FROM `user` WHERE lower_name = "”public" ORDER BY `user`.`id` LIMIT 1
+2022/01/29 10:57:19 C:/Users/QingyangLi/Desktop/dsl/internal/db/users.go:321 record not found
+[0.000ms] [rows:0] SELECT * FROM `user` WHERE lower_name = "”public" ORDER BY `user`.`id` LIMIT 1
+2022/01/29 10:57:20 C:/Users/QingyangLi/Desktop/dsl/internal/db/users.go:321 record not found
+[1.000ms] [rows:0] SELECT * FROM `user` WHERE lower_name = "”public" ORDER BY `user`.`id` LIMIT 1
+2022/01/29 11:09:48 C:/Users/QingyangLi/Desktop/dsl/internal/db/users.go:321
+[warn] Model gogs.io/gogs/internal/db.User don't match BeforeUpdateInterface, should be BeforeUpdate(*gorm.DB)
+2022/01/29 11:09:48 C:/Users/QingyangLi/Desktop/dsl/internal/db/users.go:321 record not found
+[2.002ms] [rows:0] SELECT * FROM `user` WHERE lower_name = "docs" ORDER BY `user`.`id` LIMIT 1
+2022/01/29 11:09:51 C:/Users/QingyangLi/Desktop/dsl/internal/db/users.go:321 record not found
+[0.000ms] [rows:0] SELECT * FROM `user` WHERE lower_name = "docs" ORDER BY `user`.`id` LIMIT 1

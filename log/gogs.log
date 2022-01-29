@@ -1,0 +1,34 @@
+2022/01/29 10:49:51 [ INFO] DSL开源社区 0.13.0+dev
+2022/01/29 10:49:51 [ INFO] Run mode: Production
+2022/01/29 10:49:51 [ INFO] Listen on http://0.0.0.0:3000
+2022/01/29 10:51:54 [ INFO] DSL开源社区 0.13.0+dev
+2022/01/29 10:51:54 [ INFO] Run mode: Production
+2022/01/29 10:51:54 [ INFO] Listen on http://0.0.0.0:3000
+2022/01/29 10:52:40 [ INFO] DSL开源社区 0.13.0+dev
+2022/01/29 10:52:41 [ INFO] Run mode: Production
+2022/01/29 10:52:41 [ INFO] Listen on http://0.0.0.0:3000
+2022/01/29 10:57:06 [ INFO] DSL开源社区 0.13.0+dev
+2022/01/29 10:57:06 [ INFO] Run mode: Production
+2022/01/29 10:57:06 [ INFO] Listen on http://0.0.0.0:3000
+2022/01/29 10:58:38 [ INFO] DSL开源社区 0.13.0+dev
+2022/01/29 10:58:38 [ INFO] Run mode: Production
+2022/01/29 10:58:38 [ INFO] Listen on http://0.0.0.0:3000
+2022/01/29 10:59:12 [ INFO] DSL开源社区 0.13.0+dev
+2022/01/29 10:59:12 [ INFO] Run mode: Production
+2022/01/29 10:59:12 [ INFO] Listen on http://0.0.0.0:3000
+2022/01/29 10:59:35 [ INFO] DSL开源社区 0.13.0+dev
+2022/01/29 10:59:35 [ INFO] Run mode: Production
+2022/01/29 10:59:35 [ INFO] Listen on http://0.0.0.0:3000
+2022/01/29 10:59:35 [FATAL] [.../Desktop/dsl/internal/cmd/web.go:769 runWeb()] Failed to start server: listen tcp 0.0.0.0:3000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2022/01/29 11:01:03 [ INFO] DSL开源社区 0.13.0+dev
+2022/01/29 11:01:03 [ INFO] Run mode: Production
+2022/01/29 11:01:03 [ INFO] Listen on http://0.0.0.0:3000
+2022/01/29 11:01:32 [ INFO] DSL开源社区 0.13.0+dev
+2022/01/29 11:01:32 [ INFO] Run mode: Production
+2022/01/29 11:01:32 [ INFO] Listen on http://0.0.0.0:3000
+2022/01/29 11:01:50 [ INFO] DSL开源社区 0.13.0+dev
+2022/01/29 11:01:51 [ INFO] Run mode: Production
+2022/01/29 11:01:51 [ INFO] Listen on http://0.0.0.0:3000
+2022/01/29 11:02:04 [ INFO] DSL开源社区 0.13.0+dev
+2022/01/29 11:02:04 [ INFO] Run mode: Production
+2022/01/29 11:02:04 [ INFO] Listen on http://0.0.0.0:3000
